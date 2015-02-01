@@ -50,6 +50,12 @@
     </option>
   </component>
   <component name="IdProvider" IDEtalkID="C794523CDA9F19B0CF35B6F0D9BD2D4B" />
+  <component name="ProjectCodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value />
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Apptentive" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -201,6 +207,24 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="kotlin-runtime-0.10.195">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/0.10.195/8b1258022445ae1ee04eccd96f852197382830ad/kotlin-runtime-0.10.195.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/0.10.195/49b591e62995f50f85b1f1e1cbde7e4537073d38/kotlin-runtime-0.10.195-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="kotlin-stdlib-0.10.195">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/0.10.195/4746e011e988e6580347f123488b66f61089bcbf/kotlin-stdlib-0.10.195.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/0.10.195/88c294addffcb209d08302cadb07f03712c36f4/kotlin-stdlib-0.10.195-sources.jar!/" />
+      </SOURCES>
     </library>
     <library name="support-annotations-21.0.3">
       <CLASSES>
